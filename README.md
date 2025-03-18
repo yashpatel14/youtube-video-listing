@@ -15,7 +15,7 @@ This project is a YouTube-style video listing page that fetches and displays vid
 ## 📸 Screenshots
 
 ### 🎥 Homepage
-![Screenshot 1](https://prnt.sc/slLDDiFohdAB)
+🔗 **[Homepage](https://prnt.sc/slLDDiFohdAB)**
 
 
 ---
