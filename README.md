@@ -15,26 +15,21 @@ This project is a YouTube-style video listing page that fetches and displays vid
 ## 📸 Screenshots
 
 ### 🎥 Homepage
-![Screenshot 1](screenshots/homepage.png)
+![Screenshot 1](https://prnt.sc/slLDDiFohdAB)
 
-### 🔍 Search Functionality
-![Screenshot 2](screenshots/search.png)
-
-### 📺 Video Grid Layout
-![Screenshot 3](screenshots/grid-layout.png)
 
 ---
 
 ## 🚀 Deployment
 
 You can check out the live project here:
-👉 [Live Demo](https://your-deployment-link.com)
+👉 [Live Demo](https://youtube-video-listing-eight.vercel.app/)
 
 To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/youtube-video-listing.git
+   git clone https://github.com/yashpatel14/youtube-video-listing.git
    ```
 2. Navigate to the project directory:
    ```sh
